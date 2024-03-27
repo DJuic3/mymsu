@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "425802097143",
+    "firebase_url": "https://midlands-state-university.firebaseio.com",
+    "project_id": "midlands-state-university",
+    "storage_bucket": "midlands-state-university.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425802097143:android:6a9c0697afc2b3e5f1cef2",
+        "android_client_info": {
+          "package_name": "com.example.elearningportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425802097143-577i95tpjg0atl3ipb1lq4rj7149inoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJJqOK7Xf_hbqf7zpYn6YKmCFHkAboWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425802097143-577i95tpjg0atl3ipb1lq4rj7149inoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425802097143-1sk43utdskhgelgps40stc8t39dldeef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "zw.ac.msu.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425802097143:android:8d8a1e57144be4a8f1cef2",
+        "android_client_info": {
+          "package_name": "mymsu.msu.ac.zw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425802097143-252un3s77jdp8ecpn6gemnk5ju8bk2l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mymsu.msu.ac.zw",
+            "certificate_hash": "e0eb0a725dd6fc91262bd61dcc52f2e61290a530"
+          }
+        },
+        {
+          "client_id": "425802097143-577i95tpjg0atl3ipb1lq4rj7149inoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJJqOK7Xf_hbqf7zpYn6YKmCFHkAboWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425802097143-577i95tpjg0atl3ipb1lq4rj7149inoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425802097143-1sk43utdskhgelgps40stc8t39dldeef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "zw.ac.msu.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425802097143:android:4f0db3ddb3c70ad1",
+        "android_client_info": {
+          "package_name": "zw.ac.msu.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425802097143-577i95tpjg0atl3ipb1lq4rj7149inoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJJqOK7Xf_hbqf7zpYn6YKmCFHkAboWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425802097143-577i95tpjg0atl3ipb1lq4rj7149inoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425802097143-1sk43utdskhgelgps40stc8t39dldeef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "zw.ac.msu.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425802097143:android:53d06d7be8a86f5d",
+        "android_client_info": {
+          "package_name": "zw.ac.msu.androidTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425802097143-577i95tpjg0atl3ipb1lq4rj7149inoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJJqOK7Xf_hbqf7zpYn6YKmCFHkAboWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425802097143-577i95tpjg0atl3ipb1lq4rj7149inoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425802097143-1sk43utdskhgelgps40stc8t39dldeef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "zw.ac.msu.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
